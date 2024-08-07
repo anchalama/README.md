@@ -23,15 +23,25 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 ## Certificates
-I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have :
-•	Google Data Analytics Professional Certificate (https://www.coursera.org/account/accomplishments/professional-cert/7YM8UBY8LRH2)
-•	Excel: VLOOKUP and XLOOKUP for Beginners
-•	SQL Learning Path SQL Learning Path
-•	Excel: Macros and VBA (https://www.linkedin.com/learning/certificates/1917c8d3327b96fa1de9fd4711205497a8e2c12745bdd8c4c1d8a3c8f1613379?trk=backfilled_certificate)
-•	Digital Marketing Hubspot (https://app.hubspot.com/academy/achievements/18m5mvbc/en/1/anchala-maheshwari/digital-marketing)
-• Google Analytics Certification (https://skillshop.credential.net/50616f23-4011-404f-a7d6-8358bd3dc502)
-•	Jira: Basic Administration (https://www.linkedin.com/learning/certificates/4f4525ec40a215e0598abc1858849ae1f59b2da030c5b8150b27c83987219d5f)
-•	Google Project Management: Professional Certificate (in process)
+I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result
+
+So here is a list of the ones I have :
+
+•	[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/7YM8UBY8LRH2)
+
+•	[Excel: VLOOKUP and XLOOKUP for Beginners](https://www.linkedin.com/learning/certificates/313b7b6d933a99eb5acb95a07fb5c8bfacef397ebb8e7e45e4a47a7cc6a398d3?trk=backfilled_certificate)
+
+•	[SQL Learning Path SQL Learning Path]
+
+•	[Excel: Macros and VBA](https://www.linkedin.com/learning/certificates/1917c8d3327b96fa1de9fd4711205497a8e2c12745bdd8c4c1d8a3c8f1613379?trk=backfilled_certificate)
+
+•	[Digital Marketing Hubspot](https://app.hubspot.com/academy/achievements/18m5mvbc/en/1/anchala-maheshwari/digital-marketing)
+
+• [Google Analytics Certification GA4](https://skillshop.credential.net/50616f23-4011-404f-a7d6-8358bd3dc502)
+
+•	[Jira: Basic Administration](https://www.linkedin.com/learning/certificates/4f4525ec40a215e0598abc1858849ae1f59b2da030c5b8150b27c83987219d5f)
+
+•	[Google Project Management: Professional Certificate (in process)]
 
 
 ## Contacts
