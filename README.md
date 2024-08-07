@@ -17,3 +17,10 @@ Thank you for visiting my portfolio. I look forward to discussing my qualificati
 My CV in [pdf](https://github.com/anchalama/README.md/blob/main/ANCHALA%20MAHESHWARI.BA%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20.docx)
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+
+## Table of contents
+- [About](#about)
+- [Certificates](#certificates)
+- [Contacts](#contacts)
+## Certificates
+I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have 
