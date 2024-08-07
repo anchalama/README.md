@@ -14,6 +14,7 @@ I invite you to explore my portfolio, which includes:
 - Demonstrations of my expertise in Agile methodologies, CRM systems, and communication and collaboration tools
 
 Thank you for visiting my portfolio. I look forward to discussing my qualifications further and exploring how I can drive value for your organization
+
 My CV in 
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
