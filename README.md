@@ -8,7 +8,7 @@ In this portfolio, you will find a collection of projects that showcase my skill
 I invite you to explore my portfolio, which includes:
 
 - Data visualizations and dashboards created using Power BI, Tableau, and Excel
-- Examples of data management and integration using Python, SQL, and Excel
+- Examples of data management and integration using SQL, and Excel
 - Case studies of process improvement and project management successes
 - Demonstrations of my expertise in Agile methodologies, CRM systems, and communication and collaboration tools
 
@@ -24,3 +24,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Contacts](#contacts)
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have 
+
+## Contacts
+- LinkedIn: [@amaheshwari](https://www.linkedin.com/in/anchala-maheshwari-aa2168130/)
+- E-mail:  anch121maheshwari@gmail.com
