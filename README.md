@@ -1,5 +1,4 @@
-# README.md
-Anchala Maheshwari- Data Analyst Portfolio 
+#Anchala Maheshwari- Data Analyst Portfolio 
 
 About
 Hi, I'm Anchala ! Welcome to my Data Analyst Portfolio! As a results-oriented Data Analyst with 4+ years of experience in driving high-performance outcomes and strategic decision-making, I am excited to share my expertise in data management, integration, and analytics. With a proven track record in improving processes, reducing costs, mitigating risks, and enhancing customer satisfaction, I am confident in my ability to leverage data insights to inform business decisions.
