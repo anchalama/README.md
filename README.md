@@ -14,7 +14,7 @@ I invite you to explore my portfolio, which includes:
 
 Thank you for visiting my portfolio. I look forward to discussing my qualifications further and exploring how I can drive value for your organization
 
-My CV in [pdf](https://github.com/anchalama/README.md/blob/main/ANCHALA%20MAHESHWARI.BA%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20.docx)
+My CV in [pdf](https://github.com/anchalama/README.md/blob/main/Anchala%20Maheshwari%203%20(1)%20(1)%20(1).docx)
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
